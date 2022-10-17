@@ -1,6 +1,3 @@
-//craçao de uma variavel;
-let signo = 'a';
-
 //criacao de vetores;
 let seuSigno = [[], []]
 seuSigno[1][1] = prompt(`Digite seu Signo `);
